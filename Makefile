@@ -5,7 +5,7 @@ CC=gcc
 CFLAGS=-Wall -g
 
 #define target file exe name
-TARGET=ProcessManagment
+TARGET=Pages
 
 #'all' is the default target
 all: $(TARGET)
